@@ -27,11 +27,13 @@ At BeTrusty, I work across the product stack on marketplace and booking experien
 
 My work includes frontend architecture and design-system evolution as well as APIs, domain services, PostgreSQL migrations, permissions, testing, and technical documentation. The production codebase is private, so this profile focuses on the product areas and engineering practices I contribute to rather than proprietary implementation details.
 
-### [Onzite](https://github.com/florenciasoldavini/onzait) · Personal project in active development
+### [Onzait](https://github.com/florenciasoldavini/onzait) · Personal project in active development
 
-Onzite is the personal product I am currently building with **React Native, Expo, TypeScript, and a reusable UI system**.
+Onzait is a mobile-first construction project workspace built with **React Native, Expo, TypeScript, and Supabase**.
 
-I am using it to explore cross-platform product architecture, authentication foundations, responsive interaction patterns, and the process of turning an early concept into a maintainable product. The public repository is a work in progress and will evolve alongside the product.
+It currently includes authentication, profile management, responsive project workflows, search and filtering, map-based location tools, file uploads, and RLS-backed authorization. Paid Google Maps requests stay behind server-side boundaries, and the repository documents the architecture, testing strategy, tradeoffs, and deferred product work.
+
+[Explore the repository](https://github.com/florenciasoldavini/onzait) · [View the web preview](https://onzait.vercel.app)
 
 ## How I work
 
