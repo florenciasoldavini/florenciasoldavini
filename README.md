@@ -19,23 +19,25 @@
 - Ship complete product flows across **frontend, APIs, PostgreSQL, authentication, permissions, testing, and documentation**
 - Work closely with product and design to balance user needs, technical constraints, and delivery risk
 
-## Current focus
+## Current work
 
-My recent work centers on marketplace and booking products: search and comparison experiences, pricing flows, admin tools, onboarding, internationalization, and shared UI foundations.
+### [BeTrusty](https://app.betrusty.io/) · Product engineering
 
-I care about the details that make software dependable in production—clear states, trustworthy data boundaries, maintainable abstractions, focused tests, and rollout safety.
+At BeTrusty, I work across the product stack on marketplace and booking experiences: search and comparison, pricing flows, admin tools, onboarding, internationalization, and shared UI foundations.
 
-## Selected work
+My work includes frontend architecture and design-system evolution as well as APIs, domain services, PostgreSQL migrations, permissions, testing, and technical documentation. The production codebase is private, so this profile focuses on the product areas and engineering practices I contribute to rather than proprietary implementation details.
 
-### [Planify](https://github.com/florenciasoldavini/Planify)
+### [Onzite](https://github.com/florenciasoldavini/onzait) · Personal project in active development
 
-A responsive appointment-booking experience built with React. The project explores multi-step flow design, shared reservation state, routing, responsive UI, and component testing.
+Onzite is the personal product I am currently building with **React Native, Expo, TypeScript, and a reusable UI system**.
 
-[View the live experience →](https://planify-three.vercel.app)
+I am using it to explore cross-platform product architecture, authentication foundations, responsive interaction patterns, and the process of turning an early concept into a maintainable product. The public repository is a work in progress and will evolve alongside the product.
 
-### [Design portfolio](https://www.behance.net/florencsoldavi)
+## How I work
 
-Selected visual and product design work. My design background shapes how I approach hierarchy, interaction, responsive behavior, and component systems in code.
+I care about the details that make software dependable in production: clear loading and error states, trustworthy data boundaries, maintainable abstractions, focused tests, accessibility, and rollout safety.
+
+My design background shapes how I approach hierarchy, interaction, responsive behavior, and component systems in code.
 
 ## Tools I use
 
